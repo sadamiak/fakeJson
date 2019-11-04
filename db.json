@@ -1,0 +1,7 @@
+{
+  "styles": {
+    "global": { "lineHeight": 2 },
+    "paragraph": { "color": "#607d8b", "fontSize": 14 },
+    "button": { "color": "#607d8b", "fontSize": 20 }
+  }
+}
